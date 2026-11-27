@@ -3,7 +3,7 @@
 <community>isg</community>
 <map_icon x="1" y="0"></map_icon>
 <money min="2500" max="5000" infinitive="0"/>
-<name>GENERATE_NAME_senior_sergeant</name>
+<name>GENERATE_NAME_isg_sergeant</name>
 <rank min="10000" max="25000" />
 <reputation min="-1500" max="2100" />
 <supplies>
