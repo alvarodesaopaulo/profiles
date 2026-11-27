@@ -3,7 +3,7 @@
 <community>renegade</community>
 <map_icon x="1" y="0"></map_icon>
 <money min="1000" max="3000" infinitive="0"/>
-<name>GENERATE_NAME_bandit</name>
+<name>GENERATE_NAME_renegade</name>
 <rank min="10000" max="25000" />
 <reputation min="-2500" max="-1000" />
 <supplies>
