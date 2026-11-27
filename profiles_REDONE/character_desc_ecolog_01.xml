@@ -3,7 +3,7 @@
 <community>ecolog</community>
 <map_icon x="1" y="0"></map_icon>
 <money min="1000" max="2000" infinitive="0"/>
-<name>GENERATE_NAME_stalker</name>
+<name>GENERATE_NAME_science</name>
 <rank min="1000" max="6000" />
 <reputation min="0" max="1000" />
 <supplies>
