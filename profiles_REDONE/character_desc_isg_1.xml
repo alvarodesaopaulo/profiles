@@ -3,7 +3,7 @@
 <community>isg</community>
 <map_icon x="1" y="0"></map_icon>
 <money min="1000" max="3000" infinitive="0"/>
-<name>GENERATE_NAME_private</name>
+<name>GENERATE_NAME_isg_private</name>
 <rank min="3000" max="10000" />
 <reputation min="-1000" max="1500" />
 <supplies>
