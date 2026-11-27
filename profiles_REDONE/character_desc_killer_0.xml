@@ -3,7 +3,7 @@
 <community>killer</community>
 <map_icon x="1" y="0"></map_icon>
 <money min="1000" max="3000" infinitive="0"/>
-<name>GENERATE_NAME_stalker</name>
+<name>GENERATE_NAME_merc</name>
 <rank min="2000" max="5000" />
 <reputation min="-1000" max="1500" />
 <supplies>
