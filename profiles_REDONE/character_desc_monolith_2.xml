@@ -3,7 +3,7 @@
 <community>monolith</community>
 <map_icon x="1" y="0"></map_icon>
 <money min="1500" max="3500" infinitive="0"/>
-<name>GENERATE_NAME_stalker</name>
+<name>GENERATE_NAME_monolow</name>
 <rank min="6000" max="10000" />
 <reputation min="-1500" max="1500" />
 <supplies>
